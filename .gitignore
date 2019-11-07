@@ -1,6 +1,9 @@
 # dependencies
 /node_modules
 
+# logs
+logs/*
+
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
