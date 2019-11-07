@@ -1,0 +1,19 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venky252003/NodeAPI.git"
+  },
+  "author": "venky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venky252003/NodeAPI/issues"
+  },
+  "homepage": "https://github.com/venky252003/NodeAPI#readme"
+}
