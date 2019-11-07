@@ -1,0 +1,8 @@
+ 
+  15:2:07 <---- Error connecting to database 
+  15:2:15 <---- Error connecting to database 
+  15:2:23 <---- Error connecting to database 
+  15:5:18 <---- Customer API Called data:  
+  15:7:20 <---- Customer Search API Called Error: ReferenceError: customers is not defined 
+  15:10:23 <---- Server started http://localhost:3001 
+  15:10:47 <---- Server started http://localhost:3001
