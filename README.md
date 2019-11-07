@@ -4,6 +4,7 @@ Run Project
 
 ```bash
 npm install
+node server.js
 ```
 
 create a new repository on the command line : echo "# NodeAPI" >> README.md

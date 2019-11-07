@@ -5,4 +5,40 @@
   15:5:18 <---- Customer API Called data:  
   15:7:20 <---- Customer Search API Called Error: ReferenceError: customers is not defined 
   15:10:23 <---- Server started http://localhost:3001 
-  15:10:47 <---- Server started http://localhost:3001
+  15:10:47 <---- Server started http://localhost:3001 
+  17:8:20 <---- Server started http://localhost:3001 
+  17:8:35 <---- Customer API Called data:  
+  17:11:1 <---- Customer API Called data: {
+  _id: 5dc2e20799e73f4adcfbd4eb,
+  id: 101,
+  name: 'John Galt',
+  city: 'New York',
+  orderTotal: 132.23,
+  customerSince: '25-Nov-2018',
+  createDate: 2019-11-06T15:08:55.138Z
+},{
+  _id: 5dc3bbb67bdc19d51fa067da,
+  id: 102,
+  name: 'Karthick',
+  city: 'Mumbai',
+  orderTotal: 250,
+  customerSince: '25-Dec-2018',
+  createDate: 2019-11-07T15:08:55.138Z
+} 
+  17:11:16 <---- Customer API Called data: {
+  _id: 5dc2e20799e73f4adcfbd4eb,
+  id: 101,
+  name: 'John Galt',
+  city: 'New York',
+  orderTotal: 132.23,
+  customerSince: '25-Nov-2018',
+  createDate: 2019-11-06T15:08:55.138Z
+},{
+  _id: 5dc3bbb67bdc19d51fa067da,
+  id: 102,
+  name: 'Karthick',
+  city: 'Mumbai',
+  orderTotal: 250,
+  customerSince: '25-Dec-2018',
+  createDate: 2019-11-07T15:08:55.138Z
+}
